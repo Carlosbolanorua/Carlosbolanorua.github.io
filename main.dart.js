@@ -91383,7 +91383,7 @@ this.c7()
 this.fP()}}
 A.uq.prototype={
 G(a){var s=null
-return A.nM(A.axl(s,A.J(a).fr,A.ed(s,B.GY,s,new A.ac7(a),s,s),B.VJ),A.Qr(A.dq(A.b([A.mj("Ruta 100",B.bn,100,a),A.mj("Ruta 101",B.bn,101,a),A.mj("Ruta 214",B.bn,214,a),A.mj("Ruta 313",B.bn,313,a),A.mj("Ruta 316",B.bn,316,a),A.mj("Ruta 316 Domingo",B.bn,0,a),A.mj("Ruta 412",B.bn,412,a),A.mj("Ruta 515",B.bn,515,a),A.mj("Ruta 561",B.bn,561,a),A.mj("Ruta 562",B.bn,562,a)],t.p),B.D,B.X,B.I),B.aJ),s,s,s)}}
+return A.nM(A.axl(s,A.J(a).fr,A.ed(s,B.GY,s,new A.ac7(a),s,s),B.VK),A.Qr(A.dq(A.b([A.mj("Ruta 100",B.bn,100,a),A.mj("Ruta 101",B.bn,101,a),A.mj("Ruta 214",B.bn,214,a),A.mj("Ruta 313",B.bn,313,a),A.mj("Ruta 316",B.bn,316,a),A.mj("Ruta 316 Domingo",B.bn,0,a),A.mj("Ruta 412",B.bn,412,a),A.mj("Ruta 515",B.bn,515,a),A.mj("Ruta 561",B.bn,561,a),A.mj("Ruta 562",B.bn,562,a)],t.p),B.D,B.X,B.I),B.aJ),s,s,s)}}
 A.ac7.prototype={
 $0(){A.dy(this.a,!1).hB(null)},
 $S:0}
@@ -91431,7 +91431,7 @@ G(a){var s=null
 return A.bg(s,A.r3(B.r,B.ow,s,1.25),B.k,B.n3,s,s,s,1/0,s,s,s,s,1/0)}}
 A.O9.prototype={
 G(a){var s=null
-return A.Qr(A.Ce(!0,A.dq(A.b([A.bg(s,B.VX,B.k,s,s,s,s,s,s,B.fA,s,s,1/0),A.bg(s,B.VH,B.k,s,s,s,s,s,s,B.G_,s,s,s),A.bg(s,B.Of,B.k,s,s,s,s,s,s,B.FG,s,s,s)],t.p),B.D,B.X,B.I),B.ag,!0),B.aJ)}}
+return A.Qr(A.Ce(!0,A.dq(A.b([A.bg(s,B.VX,B.k,s,s,s,s,s,s,B.fA,s,s,1/0),A.bg(s,B.VI,B.k,s,s,s,s,s,s,B.G_,s,s,s),A.bg(s,B.Of,B.k,s,s,s,s,s,s,B.FG,s,s,s)],t.p),B.D,B.X,B.I),B.ag,!0),B.aJ)}}
 A.P4.prototype={
 G(a){var s=null,r=t.p
 return A.dq(A.b([A.dD(A.pg(B.Hm,new A.adY(),A.Le(s,s,B.p,s,s,s,s,s,s,B.mX,s,s,s,B.p,new A.c2(A.eD(10),B.u),s,B.p,s,s,s)),60,180),B.W0,A.f7(A.b([A.ed(s,B.H7,s,new A.adZ(),s,s),A.ed(s,B.H4,s,new A.ae_(),s,s),A.ed(s,B.H2,s,new A.ae0(),s,s),A.ed(s,B.GX,s,new A.ae1(),s,s)],r),B.D,B.bZ,B.I)],r),B.D,B.X,B.I)}}
@@ -91907,14 +91907,14 @@ $0(){A.aUz(this.a)},
 $S:0}
 A.avx.prototype={
 $1(a){var s=null,r=t.Xs,q=A.dC(a,!0,r),p=A.dC(a,!0,t.E6),o=A.J(a),n=t.p
-return A.hX(s,A.bg(s,A.dq(A.b([new A.Ju(q,p,s),A.fn(A.dq(A.b([B.VY,new A.JC(q,s),B.Q6,B.VT,new A.JB(q,s),B.Q5],n),B.je,B.X,B.I),s,s)],n),B.D,B.X,B.ci),B.k,s,s,new A.cq(o.ax.b,s,s,B.Bi,s,s,B.aG),s,400,s,s,s,s,s),new A.avw(),r)},
+return A.hX(s,A.bg(s,A.dq(A.b([new A.Ju(q,p,s),A.fn(A.dq(A.b([B.VY,new A.JC(q,s),B.Q6,B.VH,new A.JB(q,s),B.Q5],n),B.je,B.X,B.I),s,s)],n),B.D,B.X,B.ci),B.k,s,s,new A.cq(o.ax.b,s,s,B.Bi,s,s,B.aG),s,400,s,s,s,s,s),new A.avw(),r)},
 $S:556}
 A.avw.prototype={
 $1(a){return A.aF1()},
 $S:207}
 A.Ju.prototype={
 G(a){var s=null,r=A.U(18,0,0,0),q=t.Il
-return new A.bz(B.FL,A.pg(B.VL,new A.a2b(this,a),A.mE(s,s,new A.ba(A.J(a).ax.ax,q),s,s,s,s,s,s,s,s,s,new A.ba(r,q),s,s,s,s,s,s,s,s,s)),s)}}
+return new A.bz(B.FL,A.pg(B.VM,new A.a2b(this,a),A.mE(s,s,new A.ba(A.J(a).ax.ax,q),s,s,s,s,s,s,s,s,s,new A.ba(r,q),s,s,s,s,s,s,s,s,s)),s)}}
 A.a2b.prototype={
 $0(){var s=0,r=A.R(t.H),q=this,p,o,n,m,l,k
 var $async$$0=A.S(function(a,b){if(a===1)return A.O(b,r)
@@ -92038,7 +92038,7 @@ $S:0}
 A.av7.prototype={
 $3(a,b,c){var s=A.b([],t.p)
 if(b.gi4())s.push(B.H8)
-if(b.gi4())s.push(B.VK)
+if(b.gi4())s.push(B.VL)
 if(!b.gi4())s.push(B.H1)
 if(!b.gi4())s.push(B.W_)
 return A.f7(s,B.D,B.bZ,B.I)},
@@ -92298,7 +92298,7 @@ apS(a){if(!a)return B.GK
 else return B.GJ}}
 A.N0.prototype={
 G(a){var s=null,r=A.dC(a,!0,t.eC),q=t.p
-return A.na(!1,s,!0,A.dq(A.b([A.bg(s,A.f7(A.b([A.f7(A.b([A.tQ(this.c,s,s,30),B.l6,B.VI],q),B.D,B.X,B.I),B.CW],q),B.D,B.es,B.I),B.k,s,s,s,s,s,s,B.b7,s,s,s),B.kX],q),B.D,B.X,B.I),s,!0,s,s,s,s,s,s,s,s,s,new A.aaH(a,r),s,s,s,s)}}
+return A.na(!1,s,!0,A.dq(A.b([A.bg(s,A.f7(A.b([A.f7(A.b([A.tQ(this.c,s,s,30),B.l6,B.VJ],q),B.D,B.X,B.I),B.CW],q),B.D,B.es,B.I),B.k,s,s,s,s,s,s,B.b7,s,s,s),B.kX],q),B.D,B.X,B.I),s,!0,s,s,s,s,s,s,s,s,s,new A.aaH(a,r),s,s,s,s)}}
 A.aaH.prototype={
 $0(){A.dC(this.a,!1,t.eC).Yn(!this.b.gi4())},
 $S:0}
@@ -92384,8 +92384,8 @@ aa(){return new A.W_(B.j)}}
 A.W_.prototype={
 au(){this.aN()
 A.tJ(B.fz,new A.aq6(this),t.P)},
-G(a){var s=null,r=A.bg(s,B.VP,B.k,s,s,s,s,s,s,B.FI,s,s,s),q=A.axT(A.bg(s,s,B.k,s,s,s,s,s,s,s,s,s,s)),p=A.eD(18),o=A.b([new A.d3(0,B.b5,A.U(B.c.b_(127.5),158,158,158),B.e,1)],t.d),n=t.p
-return A.nM(s,A.fn(A.dq(A.b([r,q,new A.bz(B.FD,A.f7(A.b([A.bg(s,A.aCU("assets/img/iconn.jpeg",B.mn),B.k,s,s,new A.cq(B.p,s,s,p,o,s,B.aG),s,50,s,B.FX,s,s,50),B.Q2,B.VR],n),B.D,B.bZ,B.I),s)],n),B.D,B.bZ,B.I),s,s),s,s,s)}}
+G(a){var s=null,r=A.bg(s,B.VQ,B.k,s,s,s,s,s,s,B.FI,s,s,s),q=A.axT(A.bg(s,s,B.k,s,s,s,s,s,s,s,s,s,s)),p=A.eD(18),o=A.b([new A.d3(0,B.b5,A.U(B.c.b_(127.5),158,158,158),B.e,1)],t.d),n=t.p
+return A.nM(s,A.fn(A.dq(A.b([r,q,new A.bz(B.FD,A.f7(A.b([A.bg(s,A.aCU("assets/img/iconn.jpeg",B.mn),B.k,s,s,new A.cq(B.p,s,s,p,o,s,B.aG),s,50,s,B.FX,s,s,50),B.Q2,B.VS],n),B.D,B.bZ,B.I),s)],n),B.D,B.bZ,B.I),s,s),s,s,s)}}
 A.aq6.prototype={
 $0(){var s,r=this.a.c
 r.toString
@@ -95554,8 +95554,8 @@ B.Qi=new A.CV(null)
 B.Q7=new A.eM(null,160,null,null)
 B.Ak=new A.o(!0,B.i,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.bu=new A.jf(2,"center")
-B.VM=new A.cz("Error de comunicacion del servidor. Compruebe su conexi\xf3n a internet por favor.",null,B.Ak,B.bu,null,null,null,null,null)
-B.IG=A.b(s([B.Qi,B.Q7,B.VM]),t.p)
+B.VN=new A.cz("Error de comunicacion del servidor. Compruebe su conexi\xf3n a internet por favor.",null,B.Ak,B.bu,null,null,null,null,null)
+B.IG=A.b(s([B.Qi,B.Q7,B.VN]),t.p)
 B.Ew=new A.mL(B.aJ,B.X,B.I,B.D,null,B.cq,null,B.IG,null)
 B.ns=new A.yA(0,"none")
 B.Ex=new A.yA(1,"waiting")
@@ -97257,8 +97257,8 @@ B.ve=new A.q9(1,null)
 B.kz=new A.O6(0,"portrait")
 B.kA=new A.O6(1,"landscape")
 B.Ni=new A.B9(null)
-B.VN=new A.cz("Por favor seleccione una direccion de origen y una de destino",null,null,B.bu,null,null,null,null,null)
-B.Nj=new A.bz(B.b7,B.VN,null)
+B.VO=new A.cz("Por favor seleccione una direccion de origen y una de destino",null,null,B.bu,null,null,null,null,null)
+B.Nj=new A.bz(B.b7,B.VO,null)
 B.Nk=new A.Bd(null)
 B.aU=new A.Ow(0,"fill")
 B.a4=new A.Ow(1,"stroke")
@@ -97357,16 +97357,16 @@ B.hB=new A.j5(null,null)
 B.GF=new A.cC(59115,"MaterialIcons",null,!1)
 B.ot=new A.cr(B.GF,null,null,null,null)
 B.l7=new A.eM(8,null,null,null)
-B.VQ=new A.cz("No internet connection.",null,null,null,null,null,null,null,null)
-B.J2=A.b(s([B.ot,B.l7,B.VQ]),t.p)
+B.VR=new A.cz("No internet connection.",null,null,null,null,null,null,null,null)
+B.J2=A.b(s([B.ot,B.l7,B.VR]),t.p)
 B.Ou=new A.j6(B.a2,B.X,B.I,B.D,null,B.cq,null,B.J2,null)
 B.Tp=new A.o(!0,null,null,null,null,null,16,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.VU=new A.cz("No hay conexi\xf3n a internet.",null,B.Tp,null,null,null,null,null,null)
 B.J4=A.b(s([B.ot,B.l7,B.VU]),t.p)
 B.Ow=new A.j6(B.a2,B.bZ,B.I,B.D,null,B.cq,null,B.J4,null)
 B.Al=new A.o(!0,B.i,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.VS=new A.cz("pagina 2",null,B.Al,null,null,null,null,null,null)
-B.IP=A.b(s([B.VS]),t.p)
+B.VT=new A.cz("pagina 2",null,B.Al,null,null,null,null,null,null)
+B.IP=A.b(s([B.VT]),t.p)
 B.Ev=new A.mL(B.aJ,B.X,B.I,B.D,null,B.cq,null,B.IP,null)
 B.Ox=new A.Cd(!0,!0,B.ag,B.Ev,null)
 B.Oy=new A.PV(null,null)
@@ -97542,8 +97542,8 @@ B.Q2=new A.eM(10,null,null,null)
 B.GT=new A.cr(B.jO,null,B.eu,null,null)
 B.Q3=new A.eM(12,null,null,null)
 B.f0=new A.o(!0,B.eu,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.VO=new A.cz("\xbfA d\xf3nde desea ir?",null,B.f0,null,null,null,null,null,null)
-B.Ix=A.b(s([B.GT,B.Q3,B.VO]),t.p)
+B.VP=new A.cz("\xbfA d\xf3nde desea ir?",null,B.f0,null,null,null,null,null,null)
+B.Ix=A.b(s([B.GT,B.Q3,B.VP]),t.p)
 B.Ov=new A.j6(B.a2,B.bZ,B.I,B.D,null,B.cq,null,B.Ix,null)
 B.Q4=new A.eM(300,50,B.Ov,null)
 B.Q5=new A.eM(null,10,null,null)
@@ -97960,25 +97960,25 @@ B.UO=new A.o(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.UG=new A.o(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteMountainView labelMedium",null,null,null,null)
 B.Ug=new A.o(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.f,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.VG=new A.df(B.TV,B.Vj,B.UZ,B.Sp,B.UR,B.TP,B.Vn,B.SV,B.Tu,B.UK,B.Sg,B.V_,B.UO,B.UG,B.Ug)
+B.Ah=new A.o(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
+B.VH=new A.cz("Direccion d destino:",null,B.Ah,null,null,null,null,null,null)
 B.U6=new A.o(!0,B.i,null,null,null,null,17,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.VH=new A.cz("Direcci\xf3n: Calle 28 No. 6-15\n\nL\xedneas de servicio a la ciudanan\xeda: \n(605) 5726613 - 5898302\n\nL\xednea anticorrupci\xf3n: (605) 5898302\n\nCodigo postal: 200002\n\nCorreo: ventanillaunica@siva.gov.co\n\nAnticorrupci\xf3n: anticorrupcion@siva.gov.co\n\nPara notificaciones judiciales:\nnotificacionesjudiciales@siva.gov.co\n\nValledupar - Cesar",null,B.U6,B.bu,null,null,null,null,null)
-B.VI=new A.cz("Dark Mode",null,B.lq,null,null,null,null,null,null)
-B.VJ=new A.cz("Conoce las rutas",null,null,null,null,null,null,null,null)
-B.VK=new A.cz("Fijar la ubicaci\xf3n en el mapa",null,B.Al,null,null,null,null,null,null)
-B.VL=new A.cz("BUSCAR RUTA",null,B.lr,null,null,null,null,null,null)
+B.VI=new A.cz("Direcci\xf3n: Calle 28 No. 6-15\n\nL\xedneas de servicio a la ciudanan\xeda: \n(605) 5726613 - 5898302\n\nL\xednea anticorrupci\xf3n: (605) 5898302\n\nCodigo postal: 200002\n\nCorreo: ventanillaunica@siva.gov.co\n\nAnticorrupci\xf3n: anticorrupcion@siva.gov.co\n\nPara notificaciones judiciales:\nnotificacionesjudiciales@siva.gov.co\n\nValledupar - Cesar",null,B.U6,B.bu,null,null,null,null,null)
+B.VJ=new A.cz("Dark Mode",null,B.lq,null,null,null,null,null,null)
+B.VK=new A.cz("Conoce las rutas",null,null,null,null,null,null,null,null)
+B.VL=new A.cz("Fijar la ubicaci\xf3n en el mapa",null,B.Al,null,null,null,null,null,null)
+B.VM=new A.cz("BUSCAR RUTA",null,B.lr,null,null,null,null,null,null)
 B.Gr=new A.LW(1,"italic")
 B.MO=new A.j(5,3)
 B.Pt=new A.kv(B.H,B.MO,5)
 B.JG=A.b(s([B.Pt]),t.kO)
 B.RW=new A.o(!0,null,null,"ColaKind",null,null,75,null,B.Gr,null,null,null,null,null,null,null,null,null,null,null,null,null,B.JG,null,null,null)
-B.VP=new A.cz("TU RUTA SEGURA",null,B.RW,B.bu,null,null,null,null,null)
+B.VQ=new A.cz("TU RUTA SEGURA",null,B.RW,B.bu,null,null,null,null,null)
 B.MM=new A.j(3,2)
 B.Pu=new A.kv(B.H,B.MM,5)
 B.JH=A.b(s([B.Pu]),t.kO)
 B.Vd=new A.o(!0,null,null,null,null,null,22,B.d9,null,null,null,null,null,null,null,null,null,null,null,null,null,null,B.JH,null,null,null)
-B.VR=new A.cz("ValleRuta",null,B.Vd,null,null,null,null,null,null)
-B.Ah=new A.o(!0,null,null,null,null,null,18,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
-B.VT=new A.cz("Direccion de destino:",null,B.Ah,null,null,null,null,null,null)
+B.VS=new A.cz("ValleRuta",null,B.Vd,null,null,null,null,null,null)
 B.Tq=new A.o(!0,null,null,null,null,null,13,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null,null)
 B.VV=new A.cz("Versi\xf3n 2.1",null,B.Tq,null,null,null,null,null,null)
 B.VW=new A.cz("Buscando ruta...",null,null,null,null,null,null,null,null)
