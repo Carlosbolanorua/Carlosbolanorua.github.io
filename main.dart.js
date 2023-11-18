@@ -92273,7 +92273,7 @@ case 4:p=3
 e=o
 l=A.a7(e)
 A.bZ("Excepci\xf3n: "+A.i(l))
-j=A.a1(["result","Ocurrio un error con el link"],j,t.z)
+j=A.a1(["result","Ocurrio un error con el link: "+A.i(l)],j,t.z)
 q=j
 s=1
 break
