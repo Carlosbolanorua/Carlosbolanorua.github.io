@@ -1,0 +1,203 @@
+{
+    "paraderos": [
+      {
+        "id": 1,
+        "nombre": "HURTADO",
+        "coordenadas": {
+          "latitud": 10.5087020,
+          "longitud": -73.2754550
+        },
+        "informacion_adicional": "HURTADO - PARQUE LA PROVINCIA"
+      },
+      {
+        "id": 2,
+        "nombre": "TR HURTADO IDA D316",
+        "coordenadas": {
+          "latitud": 10.5030170,
+          "longitud": -73.2711050
+        },
+        "informacion_adicional": "TERMINAL DE RUTA HURTADO"
+      },
+      {
+        "id": 3,
+        "nombre": "TR HURTADO REGRESO R100",
+        "coordenadas": {
+          "latitud": 10.500728,
+          "longitud": -73.270285
+        },
+        "informacion_adicional": "TERMINAL DE RUTA HURTADO"
+      },
+      {
+        "id": 4,
+        "nombre": "PARADERO EN RIO LUNA",
+        "coordenadas": {
+          "latitud": 10.4989960,
+          "longitud": -73.2703870
+        },
+        "informacion_adicional": "CERCA DE 80, VALLEDUPAR, CESAR"
+      },
+      {
+        "id": 5,
+        "nombre": "CC GUATAPURI PLAZA",
+        "coordenadas": {
+          "latitud": 10.4954612,
+          "longitud": -73.2678913
+        },
+        "informacion_adicional": "CARRERA 19 #5N"
+      },
+      {
+        "id": 6,
+        "nombre": "LOS CAMPANOS",
+        "coordenadas": {
+          "latitud": 10.493624,
+          "longitud": -73.266784
+        },
+        "informacion_adicional": "CARRERA 19 #2C"
+      },
+      {
+        "id": 7,
+        "nombre": "CASA INDIGENA",
+        "coordenadas": {
+          "latitud": 10.491702,
+          "longitud": -73.265702
+        },
+        "informacion_adicional": "CARRERA 19 #3"
+      },
+      {
+        "id": 8,
+        "nombre": "LAS MARIAS",
+        "coordenadas": {
+          "latitud": 10.490184,
+          "longitud": -73.267023
+        },
+        "informacion_adicional": "CALLE 1 #19A1"
+      },
+      {
+        "id": 9,
+        "nombre": "COLEGIO BILINGUE",
+        "coordenadas": {
+          "latitud": 10.489353,
+          "longitud": -73.270424
+        },
+        "informacion_adicional": "CALLE 1 #19C"
+      },
+      {
+        "id": 10,
+        "nombre": "MAKRO",
+        "coordenadas": {
+          "latitud": 10.488589,
+          "longitud": -73.273157
+        },
+        "informacion_adicional": "CALLE 1 #23"
+      },
+      {
+        "id": 11,
+        "nombre": "ROSARIO NORTE",
+        "coordenadas": {
+          "latitud": 10.4882470,
+          "longitud": -73.2748450
+        },
+        "informacion_adicional": "CALLE 1 #24"
+      },
+      {
+        "id": 12,
+        "nombre": "MARIA CAMILA NORTE",
+        "coordenadas": {
+          "latitud": 10.487737,
+          "longitud": -73.276718
+        },
+        "informacion_adicional": "CALLE 1 #29"
+      },
+      {
+        "id": 13,
+        "nombre": "OLIMPICA SIERRA NEVADA",
+        "coordenadas": {
+          "latitud": 10.487335,
+          "longitud": -73.278026
+        },
+        "informacion_adicional": "CALLE 1 #32"
+      },
+      {
+        "id": 14,
+        "nombre": "COLEGIO COMFACESAR",
+        "coordenadas": {
+          "latitud": 10.486675,
+          "longitud": -73.280707
+        },
+        "informacion_adicional": "CALLE 1 #38"
+      },
+      {
+        "id": 15,
+        "nombre": "LA ROCA",
+        "coordenadas": {
+          "latitud": 10.485831,
+          "longitud": -73.282840
+        },
+        "informacion_adicional": "CARRERA 41 #1A"
+      },
+      {
+        "id": 16,
+        "nombre": "CARRERA 41 #5",
+        "coordenadas": {
+          "latitud": 10.481683,
+          "longitud": -73.282642
+        },
+        "informacion_adicional": "CARRERA 41 #5"
+      },
+      {
+        "id": 17,
+        "nombre": "CALLE 5 #43",
+        "coordenadas": {
+          "latitud": 10.480566,
+          "longitud": -73.284725
+        },
+        "informacion_adicional": "CALLE 5 #43"
+      },
+      {
+        "id": 18,
+        "nombre": "CALLE 5 #47",
+        "coordenadas": {
+          "latitud": 10.479331,
+          "longitud": -73.288042
+        },
+        "informacion_adicional": "CALLE 5 #47"
+      },
+      {
+        "id": 19,
+        "nombre": "CARRERA 48 #5E",
+        "coordenadas": {
+          "latitud": 10.477060,
+          "longitud": -73.287663
+        },
+        "informacion_adicional": "CARRERA 48 #5E"
+      },
+      {
+        "id": 20,
+        "nombre": "LA MACRO",
+        "coordenadas": {
+          "latitud": 10.475688,
+          "longitud": -73.286681
+        },
+        "informacion_adicional": "CALLE 6 #47"
+      },
+      {
+        "id": 21,
+        "nombre": "HOSPITALITO LA NEVADA",
+        "coordenadas": {
+          "latitud": 10.476848,
+          "longitud": -73.283353
+        },
+        "informacion_adicional": "CALLE 6 #42"
+      },
+      {
+        "id": 21,
+        "nombre": "HOSPITALITO LA NEVADA",
+        "coordenadas": {
+          "latitud": 10.476848,
+          "longitud": -73.283353
+        },
+        "informacion_adicional": "CALLE 6 #42"
+      }
+    ]
+  }
+  
