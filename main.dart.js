@@ -29182,13 +29182,14 @@ a0O:function a0O(){},
 Jh:function Jh(){},
 a0P:function a0P(){},
 Ji:function Ji(){},
-Fp:function Fp(a,b,c,d,e,f){var _=this
-_.z=a
-_.Q=b
-_.p1=c
-_.ry=d
-_.xr=e
-_.a=f},
+Fp:function Fp(a,b,c,d,e,f,g){var _=this
+_.e=a
+_.z=b
+_.Q=c
+_.p1=d
+_.ry=e
+_.xr=f
+_.a=g},
 Fq:function Fq(a,b,c,d){var _=this
 _.d=a
 _.x=_.w=_.r=_.f=_.e=$
@@ -99937,48 +99938,48 @@ s=A.X(a9).ax.a===B.O?A.aOd(B.O):A.aOd(B.al)
 r=s.c
 s=A.X(a9)
 a7.x=s
-a7.a.toString
-q=r.y
-s=s.p3.Q.pj(q,15).bf(0,r.go)
+q=a7.a.e
+p=r.y
+s=s.p3.Q.pj(p,15).bf(0,r.go)
 a7.a.toString
 s=s.bf(0,a8)
-p=r.d
-o=a7.x.p3.Q.pj(p,15).bf(0,r.id)
-n=r.c
-m=a7.x.p3.Q.bU(n).bf(0,r.k1)
-l=a7.x.p3.Q.bU(n).bf(0,r.k2)
-k=a7.x.p3.Q.bf(0,r.k3)
-j=r.as
-i=a7.x.p3.Q.bU(j).bf(0,r.k4)
+o=r.d
+n=a7.x.p3.Q.pj(o,15).bf(0,r.id)
+m=r.c
+l=a7.x.p3.Q.bU(m).bf(0,r.k1)
+k=a7.x.p3.Q.bU(m).bf(0,r.k2)
+j=a7.x.p3.Q.bf(0,r.k3)
+i=r.as
+h=a7.x.p3.Q.bU(i).bf(0,r.k4)
 a7.a.toString
-i=i.bf(0,a8)
-h=r.Q
-g=a7.x.p3.Q.pj(h,13).bf(0,r.ok)
+h=h.bf(0,a8)
+g=r.Q
+f=a7.x.p3.Q.pj(g,13).bf(0,r.ok)
 a7.a.toString
-g=g.bf(0,a8)
-f=r.db
-e=a7.x.p3.Q.bU(f).bf(0,r.p2)
+f=f.bf(0,a8)
+e=r.db
+d=a7.x.p3.Q.bU(e).bf(0,r.p2)
 a7.a.toString
-e=e.bf(0,a8)
-d=r.cx
-c=a7.x.p3.Q.bU(d).bf(0,r.p3)
+d=d.bf(0,a8)
+c=r.cx
+b=a7.x.p3.Q.bU(c).bf(0,r.p3)
 a7.a.toString
-c=c.bf(0,a8)
-b=a7.x.p3.Q.bU(d).bf(0,r.p4)
-a=a7.x.p3.Q.bU(f).bf(0,r.R8)
-a7.w=A.aOc(n,m,r.e,l,p,o,r.b,r.a,r.CW,d,r.ch,b,r.p1,r.at,h,g,j,i,r.f,r.w,r.r,r.x,r.ax,r.ay,k,r.fr,r.dy,r.fx,a,r.z,q,s,r.cy,f,r.dx,e,c,r.fy)
-a0=A.X(a9)
+b=b.bf(0,a8)
+a=a7.x.p3.Q.bU(c).bf(0,r.p4)
+a0=a7.x.p3.Q.bU(e).bf(0,r.R8)
+a7.w=A.aOc(m,l,r.e,k,o,n,q,r.a,r.CW,c,r.ch,a,r.p1,r.at,g,f,i,h,r.f,r.w,r.r,r.x,r.ax,r.ay,j,r.fr,r.dy,r.fx,a0,r.z,p,s,r.cy,e,r.dx,d,b,r.fy)
+a1=A.X(a9)
 a7.a.toString
-a1=A.b7_(B.e8)
-a2=A.b6Z(a1,B.e8)
+a2=A.b7_(B.e8)
+a3=A.b6Z(a2,B.e8)
 s=a7.e
 s===$&&A.a()
 q=A.aRB(B.ec)
 p=A.aRB(a8)
 o=a7.w
-n=A.b84(a8,a1)
+n=A.b84(a8,a2)
 a7.a.toString
-m=A.b83(a8,a1)
+m=A.b83(a8,a2)
 l=a7.a
 l.toString
 k=a7.w
@@ -99991,7 +99992,7 @@ f=A.b([l.z,l.Q],t.fK)
 a7.a.toString
 B.b.a_(f,B.Mi)
 e=t.p
-f=A.b([new A.Nd(!0,!0,a8,a8,a8,a7,g,a8,k.ay,0.7,!1,B.e8,a8,a8,a8,a8,a8,a8,B.M5,B.lW,l.ry,!1,l.p1,a8,k,a0,l.xr,a8),new A.Nb(a7,!1,!0,a8,a8,B.Mj,k,f,a8)],e)
+f=A.b([new A.Nd(!0,!0,a8,a8,a8,a7,g,a8,k.ay,0.7,!1,B.e8,a8,a8,a8,a8,a8,a8,B.M5,B.lW,l.ry,!1,l.p1,a8,k,a1,l.xr,a8),new A.Nb(a7,!1,!0,a8,a8,B.Mj,k,f,a8)],e)
 l=a7.a
 l.toString
 d=a7.f
@@ -100003,16 +100004,16 @@ if(b==null)b="primaryYAxis"
 a=a9.am(t.I)
 a.toString
 a7.a.toString
-a3=a7.w
+a0=a7.w
 e=A.b([],e)
 a7.a.toString
 a4=a7.f
 a5=a7.w
 e.push(new A.AJ(a7.gacT(),350,3000,a5.cy,B.i,1,a8,2.5,!1,1,a4))
-f.push(new A.MQ(d,c,b,!0,l.p1,a8,a8,a8,a3,a8,a8,a8,a8,a8,a8,a8,a7.gacV(),a.w,e,a8))
+f.push(new A.MQ(d,c,b,!0,l.p1,a8,a8,a8,a0,a8,a8,a8,a8,a8,a8,a8,a7.gacV(),a.w,e,a8))
 a7.a.toString
 l=a7.w
-a6=A.b66(new A.CJ(!1,a8,n,m,a8,a1,B.ad,15,new A.Nc(a8,k.ax,g,a7.d,a8,a8,a8,f,a8),q,a8,a8,a8,o.at,1,1,10,0,12,12,B.KO,j,!1,a2,i,p,h,0,!0,0.2,s),B.DD,l)
+a6=A.b66(new A.CJ(!1,a8,n,m,a8,a2,B.ad,15,new A.Nc(a8,k.ax,g,a7.d,a8,a8,a8,f,a8),q,a8,a8,a8,o.at,1,1,10,0,12,12,B.KO,j,!1,a3,i,p,h,0,!0,0.2,s),B.DD,l)
 s=A.MV(B.i,0)
 A.e7(a9)
 return new A.h_(A.b5(a8,new A.b9(B.oY,a6,a8),B.l,a8,a8,new A.cE(l.b,a8,s,a8,a8,a8,B.aI),a8,a8,a8,a8,a8,a8,a8),a8)},
@@ -103342,7 +103343,7 @@ if(p!=null){s=this.a
 J.dK(p,new A.avY(s))
 p=t.s2
 r=t.N
-return new A.Fp(B.EK,new A.RF(0,s.w,!0,!0,B.fQ,B.fX,B.fZ,B.fW,B.fY,q,B.fR,B.ee,q,3,0,0,B.bH,!1,!1,B.ed,B.hA,B.fv,B.hk,q,0,"Movimiento entre sectores",1,0,!0,B.fU,q,q,!0,B.q7,q,q,q,q,B.fL,q,0,B.de,B.h_,q,q,q),s.d,B.Cn,A.b([A.aKZ(B.dz,s.r,"",new A.avZ(),new A.aw_(),p,r),A.aKZ(B.lv,s.f,"",new A.aw0(),new A.aw1(),p,r)],t.IB),q)}else return B.RJ},
+return new A.Fp(B.n,B.EK,new A.RF(0,s.w,!0,!0,B.fQ,B.fX,B.fZ,B.fW,B.fY,q,B.fR,B.ee,q,3,0,0,B.bH,!1,!1,B.ed,B.hA,B.fv,B.hk,q,0,"Movimiento entre sectores",1,0,!0,B.fU,q,q,!0,B.q7,q,q,q,q,B.fL,q,0,B.de,B.h_,q,q,q),s.d,B.Cn,A.b([A.aKZ(B.dz,s.r,"",new A.avZ(),new A.aw_(),p,r),A.aKZ(B.lv,s.f,"",new A.aw0(),new A.aw1(),p,r)],t.IB),q)}else return B.RJ},
 $S:599}
 A.avY.prototype={
 $2(a,b){var s,r
